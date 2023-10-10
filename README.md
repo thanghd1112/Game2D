@@ -6,10 +6,10 @@
 # Công nghệ 
 - Game được làm bằng engine [Unity](https://unity.com/), lập trình bằng ngôn ngữ C# và phần nhỏ các ngôn ngữ khác 
 # Cơ sở dữ liệu
-# Nhóm    
-- 😺Quang 
-- 🤡Thăng 
-- 😘Nhân
+# Thành viên   
+- 😺**Quang**
+- 🤡**Thăng** 
+- 😘**Nhân**
 # Phân công công việc
 
     Đây là một bảng phân công công việc cho dự án Game 2D Cơ Bản.
@@ -27,4 +27,5 @@ $\to$ Chú thích:
 ```c
    Cột Trạng Thái chứa biểu tượng hoàn thành (✅) hoặc không hoàn thành (❌) công việc được giao.
 ```
+   
 
